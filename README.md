@@ -10,9 +10,7 @@
 1. Install Docker
 2. Open a terminal in the folder you want to store your website in (use _File_ > _Open Powershell_ on windows to open PowerShell in the currently opened folder)
 3. Clone project https://github.com/usukesh28/nodejs-docker-tutorial.git
-4. Run `docker-compose up`
-5. Navigate to <http://127.0.0.1>
-6. Create your PHP scripts and files in `app/public`
+4. Navigate to <http://localhost:8080>
 
 ## Further help
 
